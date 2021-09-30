@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./interactive-3d/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "./interactive-3d/static/js/main.eb257264.chunk.js",
+    "main.js.map": "./interactive-3d/static/js/main.eb257264.chunk.js.map",
+    "runtime-main.js": "./interactive-3d/static/js/runtime-main.d42f56ee.js",
+    "runtime-main.js.map": "./interactive-3d/static/js/runtime-main.d42f56ee.js.map",
+    "static/js/2.674528e6.chunk.js": "./interactive-3d/static/js/2.674528e6.chunk.js",
+    "static/js/2.674528e6.chunk.js.map": "./interactive-3d/static/js/2.674528e6.chunk.js.map",
+    "static/js/3.0e3cd049.chunk.js": "./interactive-3d/static/js/3.0e3cd049.chunk.js",
+    "static/js/3.0e3cd049.chunk.js.map": "./interactive-3d/static/js/3.0e3cd049.chunk.js.map",
+    "index.html": "./interactive-3d/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "./interactive-3d/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.674528e6.chunk.js.LICENSE.txt": "./interactive-3d/static/js/2.674528e6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "./interactive-3d/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d42f56ee.js",
+    "static/js/2.674528e6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.eb257264.chunk.js"
+  ]
+}
